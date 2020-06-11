@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1028775083856",
+    "firebase_url": "https://magnusmage-8f581.firebaseio.com",
+    "project_id": "magnusmage-8f581",
+    "storage_bucket": "magnusmage-8f581.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028775083856:android:b08dd8f42332608a527655",
+        "android_client_info": {
+          "package_name": "com.magnusmage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028775083856-da78vcmtibudsnm1sgfrv56jrjum3eq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvJTQV64mq4Y7H82PwJwS3FVUb8bre7jI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028775083856-da78vcmtibudsnm1sgfrv56jrjum3eq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
